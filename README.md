@@ -1,10 +1,9 @@
-# 基于SSM的图书管理管理系统
-
+# 基于SSM的图书管理管理系统4
 ## 获取方式
 
-扫描下方，回复关键词  ： **书店4**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**书店**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,41 +30,33 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212301.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208141212301.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212335.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202208141212335.jpg)
 
 ### 4.2 用户模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212357.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208141212357.jpg)
 
-![图书详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212915.jpg)
+![图书详情](https://www.codeshop.fun/Typora-Images/202208141212915.jpg)
 
-![搜索图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212587.jpg)
+![搜索图书](https://www.codeshop.fun/Typora-Images/202208141212587.jpg)
 
 ### 4.3 管理员模块
 
-![管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212829.jpg)
+![管理员登录](https://www.codeshop.fun/Typora-Images/202208141212829.jpg)
 
-![管理员-图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212771.jpg)
+![管理员-图书管理](https://www.codeshop.fun/Typora-Images/202208141212771.jpg)
 
-![管理员-添加图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212097.jpg)
+![管理员-添加图书](https://www.codeshop.fun/Typora-Images/202208141212097.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212978.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208141212978.jpg)
 
-![管理员-图书分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212772.jpg)
+![管理员-图书分类管理](https://www.codeshop.fun/Typora-Images/202208141212772.jpg)
 
-![管理员-图书分类管理 (2)](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212228.jpg)
+![管理员-图书分类管理 (2)](https://www.codeshop.fun/Typora-Images/202208141212228.jpg)
 
-![管理员-出版社考虑](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212991.jpg)
+![管理员-出版社考虑](https://www.codeshop.fun/Typora-Images/202208141212991.jpg)
 
-![管理员-图书详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212249.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**书店4** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-图书详情](https://www.codeshop.fun/Typora-Images/202208141212249.jpg)
 
